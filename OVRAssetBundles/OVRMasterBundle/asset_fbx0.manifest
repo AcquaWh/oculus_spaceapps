@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 2514705182
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7998ec5cc9e5126939afc76f559cfb94
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f032a55b460fdd395452589ede22d5f8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/door_3_bottom_A.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/desk.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/decorative_plant_small.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/window_big_corner_far_LOD1.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Models/l_hand_skeletal_lowres.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/window_big_corner_far_LOD0.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Models/r_hand_skeletal_lowres.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/decorative_plant_desk.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/frame_door_3_colision_mesh.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/hydroponic.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/battery.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/floor_2_LOD0.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/decorative_wall_3_LOD0.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_thumbs_up_anim.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/window_big_corner_plug.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/frame_door_3.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Right.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_relax_mid_fist_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_point_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_hold_generic_anim.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/decorative_chair_LOD0.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/floor_corner_ornament.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_relax_mid_fist_anim.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/decorative_wall_3_LOD1.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/door_3_top_B.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/floor_5.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/light_celing_1.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/glass_panel_1_door.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/floor_2_no_lattice_LOD1.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/big_screen.fbx
+Dependencies:
+- C:/Users/acqua/OneDrive/Desktop/thenonames-master/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/acqua/OneDrive/Desktop/thenonames-master/OVRAssetBundles/OVRMasterBundle/asset_mat1

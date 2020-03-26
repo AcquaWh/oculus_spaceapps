@@ -1,0 +1,107 @@
+ManifestFileVersion: 0
+CRC: 3562653501
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1b5c9c0439b1b1772ebd65886a067ded
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4db562b3988e4d034221f5f7bbc651ac
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 40f52bb2b49943a498e44b97d4085085, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c98c03068b886634c98b87e2e307ebc6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 26b3f6d65fd2b41459135a4c82a6c4f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aab4c587457d86f4ca80582f946785ad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 79b7e65854ace8f44b05c52c6e824354, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fd425c2d06f39bf4899d07c05d0f10eb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 120
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 193
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/console_celing.prefab
+- Assets/Models/Sci-Fi Styled Modular Pack/Prefabs/Lights/light_celing_2.prefab
+- Assets/Models/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Tables/decorative_table_no_glass_only_top.prefab
+- Assets/Models/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/decorative_plant.prefab
+- Assets/Models/NatureStarterKit2/Nature/tree02.prefab
+- Assets/Models/Sci-Fi Styled Modular Pack/Prefabs/Lights/light_wall_3_blue.prefab
+- Assets/Models/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/console.prefab
+- Assets/Models/Sci-Fi Styled Modular Pack/Prefabs/Corridors/Corridor_T.prefab
+- Assets/Models/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Tables/desk.prefab
+- Assets/Models/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/decorative_plant_desk.prefab
+- Assets/Models/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/console_screen.prefab
+- Assets/VrGrabber/Prefabs/Vrg Right Grabber.prefab
+- Assets/Models/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/Column/column_end.prefab
+- Assets/Models/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/decorative_sofa.prefab
+- Assets/Models/Sci-Fi Styled Modular Pack/Prefabs/Extended Primitives/Cylinder_16_extended.prefab
+- Assets/Models/Sci-Fi Styled Modular Pack/Prefabs/Corridors/Corridor_L.prefab
+- Assets/Models/Sci-Fi Styled Modular Pack/Prefabs/Lights/light_celing_1.prefab
+- Assets/Models/Sci-Fi Styled Modular Pack/Prefabs/Walls/decorative_wall_3.prefab
+- Assets/Models/Sci-Fi Styled Modular Pack/Prefabs/Windows/window_big_blocker_3.prefab
+- Assets/Models/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/decorative_chair.prefab
+- Assets/Oculus/SampleFramework/Core/CustomHands/CustomHandLeft.prefab
+- Assets/Oculus/SampleFramework/Core/CustomHands/CustomHandRight.prefab
+- Assets/Models/NatureStarterKit2/Nature/tree04.prefab
+- Assets/Models/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/floor_corner_ornament.prefab
+- Assets/Models/Sci-Fi Styled Modular Pack/Prefabs/Decorative elements/bulletin_board_big.prefab
+- Assets/Models/Sci-Fi Styled Modular Pack/Prefabs/Doors/glass_panel_1_with_door.prefab
+- Assets/Models/NatureStarterKit2/Nature/bush02.prefab
+- Assets/Models/NatureStarterKit2/Nature/bush06.prefab
+- Assets/Oculus/SampleFramework/Core/CustomHands/Models/HandPoseDefaultPf.prefab
+- Assets/Models/Sci-Fi Styled Modular Pack/Prefabs/Doors/door_3.prefab
+Dependencies:
+- C:/Users/acqua/OneDrive/Desktop/thenonames-master/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/acqua/OneDrive/Desktop/thenonames-master/OVRAssetBundles/OVRMasterBundle/asset_fbx1
+- C:/Users/acqua/OneDrive/Desktop/thenonames-master/OVRAssetBundles/OVRMasterBundle/asset_fbx2
+- C:/Users/acqua/OneDrive/Desktop/thenonames-master/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/acqua/OneDrive/Desktop/thenonames-master/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/acqua/OneDrive/Desktop/thenonames-master/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/acqua/OneDrive/Desktop/thenonames-master/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/acqua/OneDrive/Desktop/thenonames-master/OVRAssetBundles/OVRMasterBundle/asset_controller0

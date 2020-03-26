@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 1626596202
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f579c27d813bd6f0b603f65bbb369541
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/VR/Textures/OculusTouchForRift/touchController_albedo.png
+- Assets/Models/Sci-Fi Styled Modular Pack/Textures/window_big_emission_mask.png
+- Assets/Models/NatureStarterKit2/Nature/tree03_Textures/shadow.png
+- Assets/Models/NatureStarterKit2/Nature/tree04_Textures/diffuse.png
+- Assets/Models/Sci-Fi Styled Modular Pack/Textures/window_big.png
+- Assets/Models/Sci-Fi Styled Modular Pack/Textures/mettalic.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Back-Z.png
+- Assets/Models/NatureStarterKit2/Nature/bush06_Textures/shadow.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Left+X.png
+- Assets/Models/NatureStarterKit2/Nature/tree02_Textures/translucency_gloss.png
+- Assets/Models/Sci-Fi Styled Modular Pack/Textures/nature_leaves.png
+- Assets/Models/NatureStarterKit2/Nature/tree03_Textures/normal_specular.png
+- Assets/Models/NatureStarterKit2/Nature/bush06_Textures/translucency_gloss.png
+- Assets/Oculus/SampleFramework/Usage/CustomHands/Lightmap-0_comp_dir.png
+- Assets/Models/Sci-Fi Styled Modular Pack/Textures/base-color-normal.png
+- Assets/Models/NatureStarterKit2/Nature/bush06_Textures/normal_specular.png
+- Assets/Textures/Hologram/HologramLines_Simple.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Up+Y.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Right-X.png
+- Assets/Models/NatureStarterKit2/Nature/tree04_Textures/translucency_gloss.png
+- Assets/Models/NatureStarterKit2/Nature/bush02_Textures/shadow.png
+- Assets/Models/NatureStarterKit2/Nature/tree03_Textures/translucency_gloss.png
+- Assets/Models/NatureStarterKit2/Standard Assets/Effects/TessellationShaders/Textures/CliffNormals.png
+- Assets/Models/NatureStarterKit2/Nature/tree03_Textures/diffuse.png
+- Assets/Models/NatureStarterKit2/Nature/tree04_Textures/shadow.png
+- Assets/Models/Sci-Fi Styled Modular Pack/Textures/bush.png
+- Assets/Models/Sci-Fi Styled Modular Pack/Textures/computer_wall_texture.png
+- Assets/Models/NatureStarterKit2/Nature/tree04_Textures/normal_specular.png
+- Assets/Models/NatureStarterKit2/Nature/tree02_Textures/normal_specular.png
+- Assets/Models/Sci-Fi Styled Modular Pack/Textures/window_big_transparent_mask.png
+Dependencies: []

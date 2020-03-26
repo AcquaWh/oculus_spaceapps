@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 264881392
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e62b43eb9f3598ed3a22c3a0c0ebdabc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Sci-Fi Styled Modular Pack/Textures/base-color.png
+- Assets/Models/NatureStarterKit2/Nature/bush02_Textures/diffuse.png
+- Assets/Models/NatureStarterKit2/Nature/tree02_Textures/diffuse.png
+- Assets/Models/Sci-Fi Styled Modular Pack/Textures/computer_wall_metalic.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Front+Z.png
+- Assets/Models/NatureStarterKit2/Nature/bush06_Textures/diffuse.png
+- Assets/Models/Sci-Fi Styled Modular Pack/Textures/lattice.png
+- Assets/Models/NatureStarterKit2/Nature/bush02_Textures/translucency_gloss.png
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01_Down-Y.png
+- Assets/Models/NatureStarterKit2/Nature/tree02_Textures/shadow.png
+- Assets/Models/NatureStarterKit2/Nature/bush02_Textures/normal_specular.png
+Dependencies: []

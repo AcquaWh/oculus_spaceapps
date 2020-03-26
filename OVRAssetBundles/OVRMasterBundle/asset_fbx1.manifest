@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 3576696965
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9090676c96686de2cc3f90ad11153590
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1a3454a22555854a486eb99ddeb551fb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/Cylinder_16_extended.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/window_big_no_side_full_LOD1.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_hold_ping_pong_ball_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_cap_touch_index_mask_anim.fbx
+- Assets/Oculus/VR/Meshes/GearVrController/GearVrController.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_point_anim.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/window_big_no_side_full.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_cap_touch_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_fist_anim.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/bulletin_board_big.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_cap_touch_anim.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/window_big_corner_far_plug.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/decorative_wall_1_LOD1.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/glass_panel_1_with_door.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_thumbs_up_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_relax_3qtr_fist_anim.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/decorative_sofa_LOD1.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/computer_station.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/floor_2_LOD1.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/window_big_plug.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_relax_3qtr_fist_anim.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/column_end.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/light_wall_3_blue.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_cap_touch_thumb_mask_anim.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/window_big_blocker_3.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/shelf.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/decorative_sofa_LOD0.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/window_big_corner_LOD0.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/console_celing.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_pinch_anim.fbx
+Dependencies:
+- C:/Users/acqua/OneDrive/Desktop/thenonames-master/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/acqua/OneDrive/Desktop/thenonames-master/OVRAssetBundles/OVRMasterBundle/asset_mat1

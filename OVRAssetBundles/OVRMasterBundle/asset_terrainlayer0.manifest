@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 4264392449
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3686b73241bfde86dd7217888cc58a15
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f106dac3fdc2900390d84e482ab7f8f1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+Assets:
+- Assets/Materials/NewLayer.terrainlayer
+- Assets/Textures/NewLayer.terrainlayer
+- Assets/_TerrainAutoUpgrade/layer_Grass_Dried_omgra0_AlbedoGrass_Dried_omgra0_normalcc0f254a2c535401.terrainlayer
+Dependencies:
+- C:/Users/acqua/OneDrive/Desktop/thenonames-master/OVRAssetBundles/OVRMasterBundle/asset_tif0

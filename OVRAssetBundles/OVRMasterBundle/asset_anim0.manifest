@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1149316390
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc485b1d881787b7475895af10638b1e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Sci-Fi Styled Modular Pack/Animations/glass_door_opened.anim
+- Assets/Models/Sci-Fi Styled Modular Pack/Animations/glass_door_closed.anim
+- Assets/Models/Sci-Fi Styled Modular Pack/Animations/glass_door_open.anim
+- Assets/Models/Sci-Fi Styled Modular Pack/Animations/glass_door_close.anim
+Dependencies: []

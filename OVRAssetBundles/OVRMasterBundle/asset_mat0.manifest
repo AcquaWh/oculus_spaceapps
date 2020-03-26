@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 183895100
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f23f7a573cea8f744d2122ccc07c7e26
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2164263bd948184a9373784f776f453a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/VrGrabber/Materials/Vrg Line.mat
+- Assets/Models/Sci-Fi Styled Modular Pack/Materials/glass.mat
+- Assets/Models/Sci-Fi Styled Modular Pack/Materials/nature_root.mat
+- Packages/com.unity.render-pipelines.lightweight/Runtime/Materials/Lit.mat
+- Packages/com.unity.render-pipelines.lightweight/Runtime/Materials/TerrainLit.mat
+- Assets/Models/Sci-Fi Styled Modular Pack/Materials/window.mat
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Materials/GroundMat.mat
+- Assets/Models/Sci-Fi Styled Modular Pack/Materials/Palletes/base color.mat
+- Assets/Models/Sci-Fi Styled Modular Pack/Materials/nature_leaves.mat
+- Assets/Models/Sci-Fi Styled Modular Pack/Materials/nature_bush.mat
+- Assets/Models/NatureStarterKit2/Materials/branch02.mat
+- Assets/Models/Sci-Fi Styled Modular Pack/Materials/nature_ground.mat
+- Assets/Models/Sci-Fi Styled Modular Pack/Materials/white emision.mat
+- Assets/Models/NatureStarterKit2/Materials/bark02.mat
+- Assets/Models/Sci-Fi Styled Modular Pack/Materials/comuter_wall.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/Materials/OculusTouchForRift_Material.mat
+- Assets/Oculus/SampleFramework/Core/CustomHands/Materials/Hands_solid.mat
+- Assets/Models/NatureStarterKit2/Materials/bush01.mat
+- Assets/Models/Sci-Fi Styled Modular Pack/Materials/screen.mat
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01.mat
+- Assets/Models/Sci-Fi Styled Modular Pack/Materials/lattice.mat
+- Assets/Models/Sci-Fi Styled Modular Pack/Materials/blue emission.mat
+- Assets/Models/NatureStarterKit2/Materials/bark01.mat
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/Materials/No Name.mat
+- Assets/Oculus/VR/Materials/GearVrController/GearVrControllerMat_128.mat
+- Assets/Models/NatureStarterKit2/Materials/branch01.mat
+- Assets/Oculus/VR/Meshes/OculusGoController/Materials/OculusGoControllerMat.mat
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/Materials/base color.mat
+- Assets/Models/NatureStarterKit2/Materials/bush02.mat
+- Assets/Models/Sci-Fi Styled Modular Pack/Materials/lattice floor.mat
+Dependencies:
+- C:/Users/acqua/OneDrive/Desktop/thenonames-master/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/acqua/OneDrive/Desktop/thenonames-master/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/acqua/OneDrive/Desktop/thenonames-master/OVRAssetBundles/OVRMasterBundle/asset_tif0
+- C:/Users/acqua/OneDrive/Desktop/thenonames-master/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/acqua/OneDrive/Desktop/thenonames-master/OVRAssetBundles/OVRMasterBundle/asset_tga0

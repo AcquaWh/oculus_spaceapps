@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4195926310
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bfc25a0fccf6f983bbc0cb9b3ea476b9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: be5c6fc3994a0a93da714f4beab35429
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+Assets:
+- Assets/Terrains/Final 1.asset
+Dependencies:
+- C:/Users/acqua/OneDrive/Desktop/thenonames-master/OVRAssetBundles/OVRMasterBundle/asset_prefab0
+- C:/Users/acqua/OneDrive/Desktop/thenonames-master/OVRAssetBundles/OVRMasterBundle/asset_prefab1
+- C:/Users/acqua/OneDrive/Desktop/thenonames-master/OVRAssetBundles/OVRMasterBundle/asset_terrainlayer0

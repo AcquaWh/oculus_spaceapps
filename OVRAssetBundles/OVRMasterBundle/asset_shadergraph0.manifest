@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1332133987
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e3da6507e3c908e5d80241b0b520724e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 677a1d6a6e8c5d2da1d9d0fadde392d8
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Shaders/Hologram.ShaderGraph
+Dependencies:
+- C:/Users/acqua/OneDrive/Desktop/thenonames-master/OVRAssetBundles/OVRMasterBundle/asset_psd0

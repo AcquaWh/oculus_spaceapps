@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3613046158
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9f4325e8f0cac6574de86a224d847d20
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fdf6c57a251b9f6ec27bdd2fe01b033c
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/SampleFramework/Core/CustomHands/Models/RightHandAnimator.controller
+- Assets/Oculus/SampleFramework/Core/CustomHands/Models/LeftHandAnimator.controller
+- Assets/Models/Sci-Fi Styled Modular Pack/Animations/glass_panel_1_with_door.controller
+Dependencies:
+- C:/Users/acqua/OneDrive/Desktop/thenonames-master/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/acqua/OneDrive/Desktop/thenonames-master/OVRAssetBundles/OVRMasterBundle/asset_fbx1
+- C:/Users/acqua/OneDrive/Desktop/thenonames-master/OVRAssetBundles/OVRMasterBundle/asset_fbx2
+- C:/Users/acqua/OneDrive/Desktop/thenonames-master/OVRAssetBundles/OVRMasterBundle/asset_anim0

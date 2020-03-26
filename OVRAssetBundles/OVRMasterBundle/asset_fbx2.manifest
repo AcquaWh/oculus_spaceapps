@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 3588517319
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c0222ad8b7efd38ba716a1d36b926f56
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f032a55b460fdd395452589ede22d5f8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/left_touch_controller_model_skel.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_hold_ping_pong_ball_anim.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/console.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/decorative_table_glass.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/decorative_wall_1_LOD0.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/door_3_bottom_B.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_cap_touch_index_mask_anim.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/decorative_plant.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Left.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/console_screen.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/door_3_top_A.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/decorative_table_no_glass_only_top.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/right_touch_controller_model_skel.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/decorative_chair_LOD1.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/pilot_seat.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/window_big_corner_LOD1.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_hold_generic_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_cap_touch_thumb_mask_anim.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/floor_2_no_lattice_LOD0.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_fist_anim.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/light_wall_1.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/light_celing_2.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_pinch_anim.fbx
+- Assets/Oculus/VR/Meshes/OculusGoController/OculusGoController.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/window_big_no_side_full_LOD0.fbx
+- Assets/Models/Sci-Fi Styled Modular Pack/Models/container_big.fbx
+Dependencies:
+- C:/Users/acqua/OneDrive/Desktop/thenonames-master/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/acqua/OneDrive/Desktop/thenonames-master/OVRAssetBundles/OVRMasterBundle/asset_mat1
